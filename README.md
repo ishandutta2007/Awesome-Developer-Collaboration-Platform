@@ -53,44 +53,50 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Developer Collaboration Tools
 
-- **[GitLab](https://github.com/gitlabhq/gitlabhq)**  
-  Complete open-source DevOps platform with built-in code review, merge requests, issues, and real-time collaboration.
-
-- **[Gitea](https://github.com/go-gitea/gitea)**  
-  Lightweight self-hosted Git service with issue tracking, pull requests, and team collaboration features.
-
-- **[Mattermost](https://github.com/mattermost/mattermost)**  
-  Open-source Slack alternative with strong developer collaboration, code snippets, and integrations.
-
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)**  
-  Open-source team communication platform with real-time chat, video, and developer-friendly tools.
-
-- **[Plane](https://github.com/makeplane/plane)**  
-  Open-source project management and issue tracking tool designed for modern software teams.
-
-- **[Taiga](https://github.com/taigaio/taiga-back)**  
-  Open-source agile project management platform with kanban, scrum, and collaboration features.
-
-- **[OpenProject](https://github.com/opf/openproject)**  
-  Comprehensive open-source project management software with team collaboration and issue tracking.
-
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)**  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   Open-source Notion alternative useful for developer documentation and team knowledge sharing.
 
+- **[Gogs](https://github.com/gogs/gogs)** [![GitHub stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers)  
+  Lightweight self-hosted Git service.
+
+- **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+  Lightweight self-hosted Git service with issue tracking, pull requests, and team collaboration features.
+
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+  Open-source team communication platform with real-time chat, video, and developer-friendly tools.
+
+- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+  Open-source Slack alternative with strong developer collaboration, code snippets, and integrations.
+
+- **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+  Open-source project management and issue tracking tool designed for modern software teams.
+
+- **[GitLab](https://github.com/gitlabhq/gitlabhq)** [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
+  Complete open-source DevOps platform with built-in code review, merge requests, issues, and real-time collaboration.
+
+- **[Jitsi](https://github.com/jitsi/jitsi-meet)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
+  Integrated video collaboration in developer workflows.
+
+- **[Phabricator](https://github.com/phacility/phabricator)** [![GitHub stars](https://img.shields.io/github/stars/phacility/phabricator?style=social&color=white)](https://github.com/phacility/phabricator/stargazers)  
+  Code review and collaboration platform.
+
+- **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+  Comprehensive open-source project management software with team collaboration and issue tracking.
+
+- **[Taiga](https://github.com/taigaio/taiga-back)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=social&color=white)](https://github.com/taigaio/taiga-back/stargazers)  
+  Open-source agile project management platform with kanban, scrum, and collaboration features.
+
+- **[Review Board](https://github.com/reviewboard/reviewboard)** [![GitHub stars](https://img.shields.io/github/stars/reviewboard/reviewboard?style=social&color=white)](https://github.com/reviewboard/reviewboard/stargazers)  
+  Open-source code review tool.
+
+### Additional Non-GitHub / Search Options
+
+- **[SourceHut](https://git.sr.ht/~sircmpwn/sourcehut)** — Minimalist open-source software forge.
 - **[Live Share Open Alternatives](https://github.com/search?q=live+share+open+source)**  
   Community tools and extensions for real-time collaborative coding in open editors.
-
 - **[Code With Me (JetBrains Community Options)](https://github.com/search?q=code+with+me+open+source)**  
   Open-source approaches to remote pair programming and collaborative editing.
-
-### Additional Strong Open-Source Options
-
-- **[Gogs](https://github.com/gogs/gogs)** — Lightweight self-hosted Git service.
-- **[SourceHut](https://git.sr.ht/~sircmpwn/sourcehut)** — Minimalist open-source software forge.
-- **[Review Board](https://github.com/reviewboard/reviewboard)** — Open-source code review tool.
-- **[Phabricator](https://github.com/phacility/phabricator)** — Code review and collaboration platform.
 - **[Many VS Code Live Share** community extensions and self-hosted alternatives.
-- **[Jitsi](https://github.com/jitsi/jitsi-meet)** for integrated video collaboration in developer workflows.
 
 **Frameworks for building custom platforms**: Combine **GitLab**, **Gitea**, **Mattermost**, and **Plane** with **Jitsi** for a complete open-source developer collaboration stack.
 
