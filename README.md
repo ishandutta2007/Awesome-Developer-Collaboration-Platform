@@ -36,35 +36,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Developer Collaboration)
 
-- **[CodeStream](https://www.codestream.com/)**  
-  In-IDE collaboration platform for discussing code, reviewing, and pair programming without leaving the editor.
-
-- **[Tuple](https://tuple.app/)**  
-  High-performance pair programming tool designed for remote developers with low latency.
-
-- **[JetBrains Space](https://www.jetbrains.com/space/)**  
-  All-in-one collaboration platform combining chat, code review, CI/CD, and project management.
-
-- **[Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)**  
-  Real-time collaborative editing and debugging within Visual Studio and VS Code.
-
-- **[GitDuck](https://gitduck.com/)**  
-  Screen sharing and pair programming tool optimized for developers.
-
-- **[Linear](https://linear.app/)**  
-  Modern issue tracking and project management tool with excellent developer experience.
-
-- **[Shortcut](https://www.shortcut.com/)**  
-  Project management platform focused on software teams with strong collaboration features.
-
-- **[Atlassian Compass](https://www.atlassian.com/software/compass)**  
-  Developer experience platform for service catalogs, scorecards, and team collaboration.
-
-- **[Swarmia](https://www.swarmia.com/)**  
-  Engineering productivity and collaboration insights platform.
-
-- **[GitKraken](https://www.gitkraken.com/)**  
-  Git client and collaboration suite with team features and issue tracking.
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[CodeStream](https://www.codestream.com/)** | In-IDE collaboration platform for discussing code, reviewing, and pair programming without leaving the editor. | Discontinued | N/A |
+| **[Tuple](https://tuple.app/)** | High-performance pair programming tool designed for remote developers with low latency. | $30/user/month | N/A (Free for OSS) |
+| **[JetBrains Space](https://www.jetbrains.com/space/)** | All-in-one collaboration platform combining chat, code review, CI/CD, and project management. | Discontinued | N/A |
+| **[Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)** | Real-time collaborative editing and debugging within Visual Studio and VS Code. | Free | Unlimited |
+| **[GitDuck](https://gitduck.com/)** | Screen sharing and pair programming tool optimized for developers. | $6 - $10/user/month | 2 simultaneous participants |
+| **[Linear](https://linear.app/)** | Modern issue tracking and project management tool with excellent developer experience. | $10 - $16/user/month | Unlimited members, up to 2 teams |
+| **[Shortcut](https://www.shortcut.com/)** | Project management platform focused on software teams with strong collaboration features. | $8.50 - $16/user/month | Up to 10 people |
+| **[Atlassian Compass](https://www.atlassian.com/software/compass)** | Developer experience platform for service catalogs, scorecards, and team collaboration. | $7.67 - $23.96/user/month | Up to 3 full users |
+| **[Swarmia](https://www.swarmia.com/)** | Engineering productivity and collaboration insights platform. | ~$25 - $45/user/month | Fewer than 10 developers |
+| **[GitKraken](https://www.gitkraken.com/)** | Git client and collaboration suite with team features and issue tracking. | $6 - $14/seat/month | Individual/open-source for public repos |
 
 ## Open-Source GitHub Projects
 
