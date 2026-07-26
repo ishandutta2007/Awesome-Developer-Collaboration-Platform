@@ -1,8 +1,8 @@
 ![Banner](./assets/banner.svg)
 
-# Awesome-Developer-Collaboration-Platform
+# 🚀 Awesome-Developer-Collaboration-Platform
 
-A curated list of awesome developer collaboration platforms.
+🌟 A curated list of awesome developer collaboration platforms.
 
 | Product | Company Size (Valuation) | Pricing | Free Tier Limits |
 |---|---|---|---|
@@ -12,7 +12,7 @@ A curated list of awesome developer collaboration platforms.
 | GitLab | ~$8 Billion | Free / $29 / $99 | 5 users, 400 compute mins/mo, 5GB storage |
 | Linear | ~$400 Million | Free / $8 / $14 | 250 issues, 1-month history |
 
-## Open-Source Repositories
+## 🌐 Open-Source Repositories
 
 | Repository | Stars |
 |---|---|
