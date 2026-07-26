@@ -36,18 +36,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Developer Collaboration)
 
-| Platform | Description | Pricing | Free Tier Limit |
-|----------|-------------|---------|-----------------|
-| **[CodeStream](https://www.codestream.com/)** | In-IDE collaboration platform for discussing code, reviewing, and pair programming without leaving the editor. | Discontinued | N/A |
-| **[Tuple](https://tuple.app/)** | High-performance pair programming tool designed for remote developers with low latency. | $30/user/month | N/A (Free for OSS) |
-| **[JetBrains Space](https://www.jetbrains.com/space/)** | All-in-one collaboration platform combining chat, code review, CI/CD, and project management. | Discontinued | N/A |
-| **[Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)** | Real-time collaborative editing and debugging within Visual Studio and VS Code. | Free | Unlimited |
-| **[GitDuck](https://gitduck.com/)** | Screen sharing and pair programming tool optimized for developers. | $6 - $10/user/month | 2 simultaneous participants |
-| **[Linear](https://linear.app/)** | Modern issue tracking and project management tool with excellent developer experience. | $10 - $16/user/month | Unlimited members, up to 2 teams |
-| **[Shortcut](https://www.shortcut.com/)** | Project management platform focused on software teams with strong collaboration features. | $8.50 - $16/user/month | Up to 10 people |
-| **[Atlassian Compass](https://www.atlassian.com/software/compass)** | Developer experience platform for service catalogs, scorecards, and team collaboration. | $7.67 - $23.96/user/month | Up to 3 full users |
-| **[Swarmia](https://www.swarmia.com/)** | Engineering productivity and collaboration insights platform. | ~$25 - $45/user/month | Fewer than 10 developers |
-| **[GitKraken](https://www.gitkraken.com/)** | Git client and collaboration suite with team features and issue tracking. | $6 - $14/seat/month | Individual/open-source for public repos |
+| Platform | Description | Pricing | Free Tier Limit | Company Size (Valuation/Market Cap) |
+|----------|-------------|---------|-----------------|-------------------------------------|
+| **[Visual Studio Live Share](https://visualstudio.microsoft.com/services/live-share/)** | Real-time collaborative editing and debugging within Visual Studio and VS Code. | Free | Unlimited | ~$3 Trillion (Microsoft) |
+| **[Atlassian Compass](https://www.atlassian.com/software/compass)** | Developer experience platform for service catalogs, scorecards, and team collaboration. | $7.67 - $23.96/user/month | Up to 3 full users | ~$40 Billion (Atlassian) |
+| **[CodeStream](https://www.codestream.com/)** | In-IDE collaboration platform for discussing code, reviewing, and pair programming without leaving the editor. | Discontinued | N/A | ~$6.5 Billion (New Relic) |
+| **[JetBrains Space](https://www.jetbrains.com/space/)** | All-in-one collaboration platform combining chat, code review, CI/CD, and project management. | Discontinued | N/A | ~$2 Billion (JetBrains Est.) |
+| **[Linear](https://linear.app/)** | Modern issue tracking and project management tool with excellent developer experience. | $10 - $16/user/month | Unlimited members, up to 2 teams | $1.25 Billion |
+| **[Shortcut](https://www.shortcut.com/)** | Project management platform focused on software teams with strong collaboration features. | $8.50 - $16/user/month | Up to 10 people | ~$100 Million (Est.) |
+| **[GitKraken](https://www.gitkraken.com/)** | Git client and collaboration suite with team features and issue tracking. | $6 - $14/seat/month | Individual/open-source for public repos | ~$30 Million (Est.) |
+| **[Swarmia](https://www.swarmia.com/)** | Engineering productivity and collaboration insights platform. | ~$25 - $45/user/month | Fewer than 10 developers | ~$20 Million (Est.) |
+| **[Tuple](https://tuple.app/)** | High-performance pair programming tool designed for remote developers with low latency. | $30/user/month | N/A (Free for OSS) | Private (Multi-million ARR) |
+| **[GitDuck](https://gitduck.com/)** | Screen sharing and pair programming tool optimized for developers. | $6 - $10/user/month | 2 simultaneous participants | Private (Seed) |
 
 ## Open-Source GitHub Projects
 
