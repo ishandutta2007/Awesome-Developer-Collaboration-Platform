@@ -24,3 +24,13 @@ An awesome list of the best developer collaboration tools, platforms, and open-s
 | [microsoft/vscode](https://github.com/microsoft/vscode) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers) |
 | [facebook/react](https://github.com/facebook/react) | [![GitHub stars](https://img.shields.io/github/stars/facebook/react?style=social&color=white)](https://github.com/facebook/react/stargazers) |
 | [vuejs/vue](https://github.com/vuejs/vue) | [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue?style=social&color=white)](https://github.com/vuejs/vue/stargazers) |
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Developer-Collaboration-Platform&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Developer-Collaboration-Platform&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Developer-Collaboration-Platform&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Developer-Collaboration-Platform&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
