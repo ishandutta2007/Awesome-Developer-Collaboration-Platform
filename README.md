@@ -1,3 +1,5 @@
+![Banner](./assets/banner.svg)
+
 # Awesome-Developer-Collaboration-Platform
 
 A curated list of awesome developer collaboration platforms.
