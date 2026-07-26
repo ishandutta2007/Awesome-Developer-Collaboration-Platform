@@ -7,8 +7,10 @@
 # 🚀 Awesome-Developer-Collaboration-Platform
 
 An awesome list of the best developer collaboration tools, platforms, and open-source repositories to improve team productivity, code sharing, and project management.
+A curated list of awesome developer collaboration platforms.
 
-## 🌟 A curated list of awesome developer collaboration platforms.
+## 🌟 SaaS
+
 
 | Product | Company Size (Valuation) | Pricing | Free Tier Limits |
 |---|---|---|---|
